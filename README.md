@@ -7,9 +7,13 @@ Tools used: Microsoft Excel, Microsoft Power BI
  Steps includes:
 
 1 Data Cleaning
+
 2 Data Processing
+
 3 Data Modelling
+
 4 Data Visualization
+
 5 Dashboard creation
 
 
